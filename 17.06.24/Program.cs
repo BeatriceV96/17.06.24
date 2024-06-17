@@ -18,7 +18,7 @@
 
             public void Descrizione() {
 
-                Console.WriteLine("L'atleta si chiama " + nome + " " + cognome + " ha " + eta + " anni e pratica " + sport);
+                Console.WriteLine("L'atleta si chiama " + nome + " " + cognome + " ha " + eta + " anni e non pratica " + sport);
             }
         }
         static void Main(string[] args)
